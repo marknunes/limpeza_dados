@@ -1,5 +1,3 @@
-.
-
 📊 Análise e Limpeza de Dados de Churn
 Este projeto tem como objetivo realizar a limpeza e padronização dos dados de churn de clientes, garantindo que o dataset esteja pronto para análises futuras e modelos preditivos.
 
